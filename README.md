@@ -7,6 +7,7 @@
 3.JavaScript   
 4.Python   
 5.Shell
+6.Kotlin
 
 #### 目前开发项目   
 <mark><a href=https://github.com/jiangnan-qwq/aethercraft>AetherCraft开服脚本</a></mark>   
