@@ -19,7 +19,7 @@
 **可以给我点个关注嘛QwQ~**   
 <a href=https://b23.tv/FDVU07L>我的B站主页</a>
 
-<a href=https://jiangnan-qwq.github.io>我的个人主页</a>
+<a href=https://www.jnxnlr.top/>我的个人主页</a>
 
 >**路虽远，行则将至；事虽难，做则必成。**   
 >-----《荀子·修身》
